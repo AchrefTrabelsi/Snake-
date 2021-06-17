@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/snake">
+        <file>snakehead.png</file>
+        <file>apple.png</file>
+        <file>bg.jpg</file>
+    </qresource>
+</RCC>
